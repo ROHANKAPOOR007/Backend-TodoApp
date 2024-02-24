@@ -1,0 +1,6 @@
+# node modules
+/node_modules
+
+# process dotenv file
+/data/config.env
+
